@@ -60,7 +60,7 @@
 
    33 sudo chmod g+w .
 
-   34 sudo chmod a+t . 
+   34 sudo chmod a+t .
 
 
 
